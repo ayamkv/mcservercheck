@@ -7,7 +7,7 @@ def validateJSON(jsonData):
         return False
     return True
 
-ip = 'mc.hypixel.net'
+ip = 'ASTDReboot.ploudos.me'
 data = requests.get(f"https://api.mcsrvstat.us/2/{ip}").json()
 
 dataOnline = data["online"]
