@@ -1,4 +1,4 @@
-# ONN
+# mc server check
 
-a simple py app that checks if a minecraft
+a python script that checks if a minecraft
 server is online or not
